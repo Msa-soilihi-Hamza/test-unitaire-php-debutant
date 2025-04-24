@@ -1,0 +1,14 @@
+{
+  "name": "test-unitaire-js-debutant",
+  "version": "1.0.0",
+  "description": "Exemple de tests unitaires avec Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 
