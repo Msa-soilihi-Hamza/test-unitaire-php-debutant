@@ -1,0 +1,17 @@
+{
+    "name": "msaha/test-unitaire-php-debutant",
+    "autoload": {
+        "psr-4": {
+            "Msaha\\TestUnitairePhpDebutant\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Msa-soilihi-Hamza",
+            "email": "hamza.msa-soilihi@laplateforme.io"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
